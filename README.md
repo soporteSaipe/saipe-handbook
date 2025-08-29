@@ -33,6 +33,40 @@ Para contribuir a este proyecto, consulta nuestra [guía de contribución](./Con
 
 ---
 
+## ✅ Checklist para abrir y mergear un Pull Request
+
+**Antes de abrir el PR**
+- [ ] Rama creada desde `main` con nombre claro (`feat/...`, `fix/...`, `docs/...`)
+- [ ] Commits descriptivos (ej. `docs: agrega sección de releases`)
+- [ ] Cambios acotados a un tema (evitar “PRs omnibus”)
+
+**Descripción del PR**
+- [ ] Resumen breve del cambio y motivo
+- [ ] ¿Impacta el proceso de release/soporte/seguridad? (sí/no)
+- [ ] Archivos clave tocados (lista corta)
+- [ ] Enlaces de referencia (si aplica)
+
+**Revisión previa (autor)**
+- [ ] Pasé un vistazo final a los diffs (no quedaron TODOs ni borradores)
+- [ ] Enlaces internos verificados (no hay links rotos)
+- [ ] Índice actualizado si agregué/renombré docs (`docs/index.md`)
+- [ ] Imágenes/archivos añadidos en carpetas correctas (p. ej. `docs/plantillas/`)
+
+**Reglas del equipo**
+- [ ] Obtuve **al menos 1 revisión** de otro dev (regla interna)
+- [ ] Se resolvieron todas las conversaciones del PR
+
+**Post-merge**
+- [ ] Eliminé la rama (`Delete branch`)
+- [ ] Si corresponde, **exporté a PDF** y copié a `\\servidor\desarrollos\00-GUIAS`
+- [ ] Aviso breve en el canal interno (qué cambió y por qué)
+
+### Convenciones
+- **Ramas**: `feat/<tema>`, `fix/<tema>`, `docs/<tema>`, `chore/<tema>`
+- **Commits**: `type(scope): descripción` (ej. `docs(handbook): agrega checklist de PR`)
+- **Scope** sugeridos: `handbook`, `estandar-bots`, `releases`, `soporte`, `seguridad`, `plantillas`
+
+
 <div align="center">
 
 **Desarrollado con ❤️ por el equipo de SAIPE**
