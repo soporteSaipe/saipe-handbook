@@ -5,7 +5,7 @@
 ## 🚀 Inicio Rápido
 
 - 📖 **Documentación**: Disponible en [`/docs`](./docs)
-- 🔄 **Contribuciones**: Cambios via Pull Requests (ver [`guia_principiantes_pr.md`](./docs/plantillas/guia_principiantes_pr.md))
+- 🔄 **Contribuciones**: Cambios via Pull Requests (ver [`guia_principiantes_pr.md`](docs/guia_principiantes_pr.md))
 - 👥 **Revisores**: Definidos en [`CODEOWNERS`](./.github/CODEOWNERS)
 
 ## ⭐ Regla de Oro
