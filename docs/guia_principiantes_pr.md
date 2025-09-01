@@ -1,10 +1,10 @@
-# Guía para Principiantes – Pull Requests (PR) en GitHub
+# Guía para principiantes – Pull Requests (PR) en GitHub
 
 Esta guía explica cómo trabajar con ramas y Pull Requests en GitHub para integrar cambios de forma ordenada.
 
 ---
 
-## 0) Conceptos clave
+## Conceptos clave
 - **Rama (`branch`)**: línea de trabajo aislada de `main`.
 - **PR (Pull Request)**: propuesta para integrar tu rama a `main`, que se revisa y aprueba antes del merge.
 - **Merge**: acción que mete los cambios de tu rama en `main`.
@@ -36,7 +36,7 @@ git commit -m "feat(handbook): agrega checklist de PR"
 
 ### D. Subir tu rama (¡no a main!)
 ```
-git push -u origin HEAD
+git push -u origin NOMBRE_RAMA
 ```
 
 ### E. Crear el PR
@@ -138,7 +138,7 @@ fi
 
 ---
 
-## 7) Resumen rápido (chuleta)
+## 7) Resumen rápido
 ```
 # empezar
 git checkout main && git pull
