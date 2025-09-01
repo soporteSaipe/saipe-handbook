@@ -6,7 +6,7 @@
 
 - 📖 **Documentación**: Disponible en [`/docs`](./docs)
 - 🔄 **Contribuciones**: Cambios via Pull Requests (ver [`guia_principiantes_pr.md`](docs/guia_principiantes_pr.md))
-- 👥 **Revisores**: Definidos en [`CODEOWNERS`](./.github/CODEOWNERS)
+- 👥 **Revisores**: Cualquier desarrollador que no haya subido los cambios
 
 ## ⭐ Regla de Oro
 
