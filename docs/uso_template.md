@@ -6,7 +6,7 @@ Este documento explica cómo crear un nuevo bot a partir del repositorio `bot-te
 
 ## 1. Crear un nuevo repositorio desde el template
 
-1. Ir a [github.com/soporteSaipe/bot-template]([https://github.com/soporteSaipe/bot-template]).  
+1. Ir a [github.com/soporteSaipe/bot-template](https://github.com/soporteSaipe/bot-template).  
 2. Asegurarse que está marcado como **Template repository** (Settings → General → Features → ☑️ Template repository).  
 3. En la barra de GitHub, hacer clic en **Use this template** → **Create a new repository**.  
 4. Completar:
