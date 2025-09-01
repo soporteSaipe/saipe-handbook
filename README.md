@@ -66,6 +66,7 @@ Para contribuir a este proyecto, consulta nuestra [guía de contribución](./Con
 - **Commits**: `type(scope): descripción` (ej. `docs(handbook): agrega checklist de PR`)
 - **Scope** sugeridos: `handbook`, `estandar-bots`, `releases`, `soporte`, `seguridad`, `plantillas`
 
+Última revisión: 2025-09-01
 
 <div align="center">
 
