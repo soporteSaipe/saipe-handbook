@@ -1,4 +1,4 @@
-# 🚀 Checklist de Release de Bots
+# Checklist de Release de Bots
 
 Cada nueva versión de un bot debe seguir estos pasos antes de distribuirse a los contadores.
 
@@ -58,8 +58,8 @@ Cada nueva versión de un bot debe seguir estos pasos antes de distribuirse a lo
 
 | Bot        | Versión | Fecha       | Cambios principales                  | Responsable |
 |------------|---------|-------------|--------------------------------------|-------------|
-| bot_x      | v1.0.0  | 2025-09-01  | Primera release estable              | Juan Pérez  |
-| bot_y      | v0.9.2  | 2025-08-15  | Fix exportación Excel                | Ana López   |
+| bot_x      | v1.0.0  | 2025-09-01  | Primera release estable              | Ezequiel Z. |
+| bot_y      | v0.9.2  | 2025-08-15  | Fix exportación Excel                | Gonzalo C.  |
 | bot_z      | v2.1.0  | 2025-08-01  | Nuevo módulo AFIP + mejoras logging  | Marcos B.   |
 
 > Cada nuevo release debe agregarse a esta tabla con versión, fecha, cambios y responsable.
