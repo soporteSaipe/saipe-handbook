@@ -5,7 +5,7 @@
 ## 🚀 Inicio Rápido
 
 - 📖 **Documentación**: Disponible en [`/docs`](./docs)
-- 🔄 **Contribuciones**: Cambios via Pull Requests (ver [`CONTRIBUTING.md`](./Contributing.md))
+- 🔄 **Contribuciones**: Cambios via Pull Requests (ver [`guia_principiantes_pr.md`](./docs/plantillas/guia_principiantes_pr.md))
 - 👥 **Revisores**: Definidos en [`CODEOWNERS`](./.github/CODEOWNERS)
 
 ## ⭐ Regla de Oro
@@ -26,10 +26,6 @@
 - **Plantillas**: Templates para bots y procesos
 - **Checklists**: Listas de verificación para releases
 - **Runbooks**: Procedimientos operativos
-
-## 🤝 Contribuir
-
-Para contribuir a este proyecto, consulta nuestra [guía de contribución](./Contributing.md).
 
 ---
 
@@ -66,7 +62,7 @@ Para contribuir a este proyecto, consulta nuestra [guía de contribución](./Con
 - **Commits**: `type(scope): descripción` (ej. `docs(handbook): agrega checklist de PR`)
 - **Scope** sugeridos: `handbook`, `estandar-bots`, `releases`, `soporte`, `seguridad`, `plantillas`
 
-Última revisión: 2025-09-01
+Última revisión: 01-09-2025
 
 <div align="center">
 
