@@ -1,6 +1,6 @@
-# Chuleta – Pull Requests (PR) en GitHub
+# Machete – Pull Requests (PR) en GitHub
 
-## 🚦 Flujo de trabajo
+## Flujo de trabajo
 ```
 git checkout main && git pull
 git checkout -b feat/mi-cambio
@@ -11,13 +11,13 @@ git push -u origin HEAD
 ```
 
 - Crear PR en la web:  
-  `https://github.com/<ORG>/<REPO>/compare/main...<rama>`  
+  `https://github.com/soporteSaipe/<REPO>/compare/main...<rama>`  
 - O con CLI:  
   `gh pr create -B main -t "feat: mi cambio" -b "Descripción"`
 
 ---
 
-## ✅ Checklist del PR
+## Checklist del PR
 - [ ] Cambios acotados  
 - [ ] README / docs actualizados si aplica  
 - [ ] Sin TODOs ni credenciales  
@@ -29,13 +29,21 @@ _Post-merge_
 - [ ] Delete branch (en GitHub y local)  
 - [ ] Aviso en canal interno  
 
+## Borrar rama
+```
+git checkout main
+git pull origin main
+git branch -d <tu-rama>
+git push origin --delete <tu-rama>
+```
+
 ---
 
-## 🛑 No hacer
-- `git push origin main` ❌  
-- Reusar ramas viejas después de un merge ❌  
+## No hacer
+- `git push origin main`
+- Reusar ramas viejas después de un merge
 
 ---
 
-## 🔑 Regla de oro
+## Regla de oro
 **Un cambio = una rama = un PR.**
