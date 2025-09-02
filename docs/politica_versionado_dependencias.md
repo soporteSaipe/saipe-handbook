@@ -1,4 +1,4 @@
-# 📦 Política de Versionado y Dependencias
+# Política de Versionado y Dependencias
 
 Este documento define **cómo versionamos** los bots y **cómo mantenemos** sus dependencias para asegurar builds reproducibles y releases estables.
 
@@ -24,7 +24,7 @@ git push origin vX.Y.Z
 
 **Nombre de carpeta en servidor:**
 ```
-\\servidor\desarrollos\releases\<bot>\vX.Y.Z\
+H:\SISTEMAS\desarrollos\saipe_hub\<bot>\vX.Y.Z\
 ```
 Mantener `latest` apuntando a la versión vigente.
 
