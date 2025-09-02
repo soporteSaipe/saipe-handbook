@@ -5,4 +5,4 @@
 - [ ] Salida en `OUTPUT_DIR`
 - [ ] `logs/app.log` sin datos sensibles
 - [ ] README del bot actualizado (versión)
-- [ ] Copia en `\\servidor\desarrollos\{bot}\vX.Y.Z` y `latest`
+- [ ] Copia en `H:\SISTEMAS\desarrollos\saipe_hub\{bot}\vX.Y.Z` y `latest`

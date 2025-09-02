@@ -1,6 +1,6 @@
 # Runbook {BOT}
 ## Dónde ver logs
-- `…\logs\app.log`
+- `{bot}\logs\app.log`
 ## Chequeos rápidos
 1) `.env` cargado
 2) Firefox portable presente

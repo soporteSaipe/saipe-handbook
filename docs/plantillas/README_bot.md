@@ -5,8 +5,8 @@
 ## Uso
 1) Abrir `{bot}\latest\main_gui.exe`
 2) Seleccionar …
-3) Salida en `…\salidas`
+3) Salida en `{bot}\salidas`
 ## Problemas comunes
-- Mensaje X → verifique Y | Logs en `…\logs\app.log`
+- Mensaje X → verifique Y | Logs en `{bot}\logs\app.log`
 ## Soporte
-Canal interno: … (adjuntar log y archivo de entrada)
+Canal interno: Slack soporte-desarrollos (adjuntar log y archivo de entrada)

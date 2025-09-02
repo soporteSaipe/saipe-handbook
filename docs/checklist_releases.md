@@ -1,4 +1,6 @@
-# ✅ Checklist de Release de Bots (actualizado)
+# ✅ Checklist de Release de Bots
+
+> **Nota**: Este checklist complementa la [Política de Versionado y Dependencias](./politica_versionado_dependencias.md) que es el documento principal para procesos de release.
 
 Cada nueva versión de un bot debe seguir estos pasos antes de distribuirse a los contadores.
 
@@ -52,7 +54,7 @@ Cada nueva versión de un bot debe seguir estos pasos antes de distribuirse a lo
   ```
 - [ ] Validar que se creó la carpeta:
   ```
-  \\servidor\desarrollos\releases\<bot>\vX.Y.Z\
+  H:\SISTEMAS\desarrollos\saipe_hub\<bot>\vX.Y.Z\
   ```
 - [ ] Confirmar que `latest/` apunta a esa versión
 - [ ] Mantener versiones anteriores (no borrar releases viejos)

@@ -1,5 +1,7 @@
 # 📂 Instructivo – Uso del Template de Bots
 
+> **Nota**: Este documento hace referencia al repositorio `bot-template` que es un repositorio separado del handbook.
+
 Este documento explica cómo crear un nuevo bot a partir del repositorio `bot-template`.
 
 ---

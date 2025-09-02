@@ -95,7 +95,7 @@ Completar en la descripción:
 
 _Post-merge_  
 - [ ] Eliminé la rama  
-- [ ] Avisé en el canal interno si corresponde  
+- [ ] Avisé en el canal interno (Slack) si corresponde  
 
 ---
 

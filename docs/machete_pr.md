@@ -27,7 +27,7 @@ git push -u origin HEAD
 _Post-merge_  
 - [ ] Merge con botón verde en GitHub  
 - [ ] Delete branch (en GitHub y local)  
-- [ ] Aviso en canal interno  
+- [ ] Aviso en canal interno (Slack)  
 
 ## Borrar rama
 ```

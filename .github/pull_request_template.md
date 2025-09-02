@@ -12,4 +12,4 @@
 ## Checklist
 - [ ] Índice `docs/index.md` actualizado
 - [ ] Enlaces revisados
-- [ ] Aviso en canal interno tras merge
+- [ ] Aviso en canal interno (Slack) tras merge

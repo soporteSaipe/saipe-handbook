@@ -54,8 +54,8 @@
 
 **Post-merge**
 - [ ] Eliminé la rama (`Delete branch`)
-- [ ] Si corresponde, **exporté a PDF** y copié a `\\servidor\desarrollos\00-GUIAS`
-- [ ] Aviso breve en el canal interno (qué cambió y por qué)
+- [ ] Si corresponde, **exporté a PDF** y copié a `H:\SISTEMAS\desarrollos\00-GUIAS`
+- [ ] Aviso breve en el canal interno (Slack interno)
 
 ### Convenciones
 - **Ramas**: `feat/<tema>`, `fix/<tema>`, `docs/<tema>`, `chore/<tema>`
